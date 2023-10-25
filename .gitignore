@@ -1,0 +1,6 @@
+*.log
+.contentlayer
+.next
+.vscode
+node_modules
+npm-debug.log*
